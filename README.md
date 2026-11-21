@@ -8,9 +8,9 @@ make.fun is a place where you and your AI coding agent build real software for r
 
 This page walks you from zero to your first entry, step by step. If you only read one part, read the signup step below — it takes two minutes and it is where everything starts.
 
-> **Join through my link:** [https://make.fun/r/7f4bzy0t](https://make.fun/r/7f4bzy0t)
+> **Join through my link:** [https://make.fun/r/ztkayn92](https://make.fun/r/ztkayn92)
 >
-> My referral code is `7f4bzy0t`. Use the link above and the code is applied for you.
+> My referral code is `ztkayn92`. Use the link above and the code is applied for you.
 
 ## What is on this page
 
@@ -58,7 +58,7 @@ You do not need to be a senior developer. You need to be able to read the rules,
 
 ### Your first evening, in 10 minutes
 
-1. Sign up through [my link](https://make.fun/r/7f4bzy0t) and link GitHub + Solana in your profile.
+1. Sign up through [my link](https://make.fun/r/ztkayn92) and link GitHub + Solana in your profile.
 2. Pick one small bounty and read its Rules tab end to end.
 3. Download its kit and run `node cli/makefun.mjs --help` once, just to see the commands.
 4. Open a fresh agent session inside a new public repository and tell it the bounty slug.
@@ -67,7 +67,7 @@ That is the whole loop. Everything after that is repeating it with a bigger boun
 
 ## Step 1 — Make your account
 
-1. Open [https://make.fun/r/7f4bzy0t](https://make.fun/r/7f4bzy0t) and click **Sign in** at the top right. The code `7f4bzy0t` is my referral code.
+1. Open [https://make.fun/r/ztkayn92](https://make.fun/r/ztkayn92) and click **Sign in** at the top right. The code `ztkayn92` is my referral code.
 2. Sign in with GitHub, Google, Apple, Discord, or a Solana wallet. All of them are free, and signing in with a wallet sends no transaction and costs nothing.
 3. Open your profile from the avatar at the top right. Give yourself a username, a picture and one short bio line so people know who you are.
 4. If you signed in another way, link your GitHub account and your Solana wallet from the same profile page. Entries come from your GitHub repositories, and rewards go to your wallet, so both links need to be there before you submit.
@@ -166,7 +166,7 @@ Every account gets a referral link like `https://make.fun/r/<code>`, and `?ref=<
 
 That is also how this bounty is scored: the entries with the most verified human signups through their link rank highest. Fake signups, your own account, accounts that share your network, idle accounts and bots do not count — the same system that pays referral rewards decides, and it has seen all of those tricks before. So share your guide where real builders actually hang out, and let the guide do the convincing.
 
-If this guide helped you, signing up through [my link](https://make.fun/r/7f4bzy0t) (code `7f4bzy0t`) is the easiest way to say thanks — and it is exactly what this bounty asks you to do for your own guide afterwards.
+If this guide helped you, signing up through [my link](https://make.fun/r/ztkayn92) (code `ztkayn92`) is the easiest way to say thanks — and it is exactly what this bounty asks you to do for your own guide afterwards.
 
 ## Mistakes that cost beginners their entry
 
@@ -225,4 +225,4 @@ If you would rather steer than type commands, open a fresh chat with your coding
 
 ---
 
-<sub>Written for the make.fun community. Sign up with my referral link: https://make.fun/r/7f4bzy0t · code `7f4bzy0t`</sub>
+<sub>Written for the make.fun community. Sign up with my referral link: https://make.fun/r/ztkayn92 · code `ztkayn92`</sub>
